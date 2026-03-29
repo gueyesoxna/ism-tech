@@ -1,2 +1,2 @@
-# ism-tech
+# Girl-tech
 clubs-informatique 
