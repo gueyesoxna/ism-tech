@@ -1,0 +1,31 @@
+body {
+    background-color: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    text-align: center;
+    max-width: 350px;
+}
+
+h1 { color: #2c3e50; margin-bottom: 5px; }
+
+.subtitle { color: #3498db; font-weight: bold; margin-bottom: 20px; }
+
+.tags span {
+    background: #e1e8ed;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 0.8em;
+    margin: 0 5px;
+}
+
+.location { margin-top: 20px; font-size: 0.9em; color: #7f8c8d; }
